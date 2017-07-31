@@ -1,3 +1,37 @@
-#header{
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#menu_izquierdo{
 	background-color: red;
+	width: 15%;
+	height: 100%;
+	float: left;
+}
+
+#lateralIzquierdo{
+	text-align: center;	
+}
+
+#img{
+
+	float: center;
+}
+
+#menu{
+	padding-top: 30%;
+}
+
+#menu ul li{
+	padding-top: 10%;
+}
+
+#header{
+	background-color: blue;
+	
+}
+
+#contenido{
+	background-color: yellow;
 }
